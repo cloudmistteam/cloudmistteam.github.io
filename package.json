@@ -14,7 +14,7 @@
   "dependencies": {
     "busuanzi.pure.js": "^1.0.3",
     "canvas-confetti": "^1.9.3",
-    "remixicon": "^4.3.0",
+    "remixicon": "^4.6.0",
     "simple-icons-font": "^13.13.0"
   }
 }
